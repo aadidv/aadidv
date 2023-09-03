@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aadidv
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Front end Web Development
+- 🌱 I’m currently learning Front end and Back end Web Development
 - 💞️ I’m looking to collaborate on Web Developers
-- 📫 How to reach me .
+- Updating..
 
 <!---
 aadidv/aadidv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

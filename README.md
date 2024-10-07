@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadidev (Ninjadev)
-- 👀 I’m certifired Web Developer
+- 👀 I’m certified Web Developer
 - 🌱 I’m currently working and learning Front end and Back end Web Development
 - 💞️ I’m looking to collaborate with Web Developers and Open to work ..
 - Updating..

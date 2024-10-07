@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @aadidv
-- 👀 I’m interested in Full Stack Web Development
+- 👋 Hi, I’m @aadidev (Ninjadev)
+- 👀 I’m certifired Web Developer
 - 🌱 I’m currently learning Front end and Back end Web Development
-- 💞️ I’m looking to collaborate on Web Developers
+- 💞️ I’m looking to collaborate with Web Developers and Open to work ..
 - Updating..
 
 <!---
